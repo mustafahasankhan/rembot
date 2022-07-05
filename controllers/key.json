@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "rembot-350408",
-  "private_key_id": "1dcd869f762ee66befe0ed49701ba526437b6767",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPFGPNvgjobzUU\nK/oJ06iPdvNlGujsfTk/SRaf4DSX8GChKnXJWlvX6KOnrCMA4uVH82l1FlMjeIB2\nwpFIalJKFt5hI1gbyooQ5+HdrhRCCfXp0wv1E567hXLFC64CRoy403yXm0sQviLf\nzkmlO1PeqnzTTFZc/trXqDoCnwa/TXD58NaYF8I6k86FXuh44pJHJW5L2eTra83n\nliNmnegDS6VsHupQCb19yXXT3EXL+sqglE7QY0i8gRLn0LBzTi1vqd+aQ+XvYYOt\nnxsg+67l2WlPFCcrqWoPz+pFHHzudvpChQLZn36BIUMWrmYzUACTvo0F8I8uHLN9\nAAKMXM95AgMBAAECggEAF/Tja54fDgjY3/8LG7pCshTlqUjjhoHMLtVH9UdXvkt/\nBQDSWfDcAY6hPu4hVI0V+mzKF/4fsHxUhv4RFwrEf1wa7lZLmgIkq+UE/S488LuR\n7rL4Rf+MPw8mt8NspkhpfPPBN7wtrdUEAtas2sfndtyhY+6Hv+rKADtZjrZoGOxp\nUFztRQHyC2tuUz76sEms0Ls2AlnEbPrD5lfSwond2F8+ATe7LJL9kb1hmbbBFggf\nsBvxM1QFz8UE5NtjnfsNxx5HwKR4nqRjvB8BpnrHTHVkdeA48RH3JDrjXOdu4oAv\n4p14iEyikCxf5woYwq3/IucuMBf7vYNfUMI7wxxn0wKBgQD7BrRIHRQ3HTBgJ+KN\njMNwdYYJoGDOWFGEHICrWWIDA8PY0aVFAqiCRwbY9RIPJ5Zu20NFgfsev24KULYM\n3Ny9tEEG9w3Eilmm5opmzz8UFjFk7jG9jy07lEaqntvIAlMpYfJ+UjNmUvv161A3\nHsY59iXZrpw/ioWZf9tEKzEs2wKBgQDTLsXZ/Joa5WD8dAfLlMyC8PBO8hU/Stsv\niZP4rC2VBgWJz+fkTv1FYuGhmYr+0a+rWjoJoREvvcJ0JC5kci9gvvKBKp+tJkLr\n4agvnjSXGasPBbDBkfzBwjAvVMMrlfmbpdwo3XA36hyK4iG+7pVXRgcY9ttwMyTE\nnY2q3mM7OwKBgQCB9kScGUIADsKe5cdrVXdR3+aXUUsNSbhaV49eJxaRTP+2X0Pb\naLbpS/CFnsvMwMgneKlpcRQcJSvJd2PpYOd/57TK8FlWafJkcHMzKxUTRzIneRKT\ne28Fq4yyhTBwapO3lxg+wjwOO+Rqu3t6Lhqeo4uRGc+XLhZhFErnDh2VhQKBgQC6\n1AdPeWzwXHt3/EKlNYfUU8mVXg+0BcpxfNo+xjwxObmOmTMCxWrFhtwsNgVEuEcc\nZd8wg6ELxmoQi63LSUVm5qbt5MKM0Wuk+Obs8Z5/CsNNr/AW38tnsx8j0G410iGY\nNJzYPkc4AFKt/65xFuth4V8IE+RAl85wbx5Uyxeo3wKBgB4c2ZnTTWbeY82irWa9\nSiNZuVdIJIri98xrp+Vn/ObFMMCJb8nmiwzBXTABcDb+bnkMyn1SF+psXvJWasMp\nytE/c4XrJEHBUJ+XubKWhtiWti8AuJ1OYZCXRlctoCgQbzwEDCarmTrPQgM93luW\ncZMi0QoBXR1lNMOeR9FM8OrW\n-----END PRIVATE KEY-----\n",
-  "client_email": "zamp-527@rembot-350408.iam.gserviceaccount.com",
-  "client_id": "113927398065647986249",
+  "project_id": "yourprojectid",
+  "private_key_id": "your private key id",
+  "private_key": "your private key",
+  "client_email": "your client email",
+  "client_id": "your client id",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zamp-527%40rembot-350408.iam.gserviceaccount.com"
+  "client_x509_cert_url": "yourcerturl"
 }

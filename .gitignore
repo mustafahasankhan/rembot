@@ -9,8 +9,8 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# rc-apps package output
-dist/
+# firebase
+controllers/key.json
 
 # Runtime data
 pids
